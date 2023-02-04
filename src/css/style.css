@@ -1,0 +1,18 @@
+body{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.container{
+display: flex;
+justify-content: center;
+align-items: center;
+height: 100vh;
+
+}
+.conteudo{
+    background-color: #e4dfdf;
+    height: 417px;
+    width: 626px;
+    text-align: center;
+}
